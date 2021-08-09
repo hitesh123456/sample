@@ -58,7 +58,7 @@ html, body{
 }
 
 .bg-purple{
-    background: url(./bg_purple.png);
+    background: url(https://raw.githubusercontent.com/hitesh123456/sample/main/bg_purple.png);
     background-repeat: repeat-x;
     background-size: cover;
     background-position: left top;
