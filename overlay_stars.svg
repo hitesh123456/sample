@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg61"
+   version="1.1"
+   viewBox="0 0 1280 1200.79">
+  <metadata
+     id="metadata65">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#fff;}.cls-1,.cls-2{opacity:0.3;}.cls-2,.cls-3{fill:#66baf2;}.cls-3{opacity:0.62;}</style>
+  </defs>
+  <title
+     id="title6">overlay_stars_1</title>
+  <g
+     data-name="Layer 2"
+     id="Layer_2">
+    <g
+       data-name="Layer 1"
+       id="Layer_1-2">
+      <g
+         id="stars">
+        <circle
+           id="circle8"
+           r="4.06"
+           cy="963.26"
+           cx="683.82"
+           class="cls-1" />
+        <circle
+           id="circle10"
+           r="4.06"
+           cy="912.12"
+           cx="1069.31"
+           class="cls-1" />
+        <circle
+           id="circle12"
+           r="4.06"
+           cy="453.34"
+           cx="294.27"
+           class="cls-2" />
+        <circle
+           id="circle14"
+           r="4.06"
+           cy="40.66"
+           cx="1275.94"
+           class="cls-1" />
+        <circle
+           id="circle16"
+           r="4.06"
+           cy="218.57"
+           cx="1215.06"
+           class="cls-1" />
+        <circle
+           id="circle18"
+           r="4.06"
+           cy="28.49"
+           cx="652.22"
+           class="cls-1" />
+        <circle
+           id="circle20"
+           r="4.06"
+           cy="241.13"
+           cx="777.57"
+           class="cls-1" />
+        <circle
+           id="circle22"
+           r="4.06"
+           cy="4.06"
+           cx="332.83"
+           class="cls-1" />
+        <circle
+           id="circle24"
+           r="4.06"
+           cy="260.78"
+           cx="4.06"
+           class="cls-1" />
+        <circle
+           id="circle26"
+           r="4.06"
+           cy="107.25"
+           cx="166.41"
+           class="cls-1" />
+        <circle
+           id="circle28"
+           r="4.06"
+           cy="954.96"
+           cx="1275.94"
+           class="cls-1" />
+        <circle
+           id="circle30"
+           r="4.06"
+           cy="77.2"
+           cx="1018.93"
+           class="cls-1" />
+        <circle
+           id="circle32"
+           r="4.06"
+           cy="157.49"
+           cx="484.62"
+           class="cls-3" />
+        <circle
+           id="circle34"
+           r="4.06"
+           cy="1196.73"
+           cx="1259.71"
+           class="cls-1" />
+        <circle
+           id="circle36"
+           r="4.06"
+           cy="434.82"
+           cx="80.59"
+           class="cls-1" />
+        <circle
+           id="circle38"
+           r="4.06"
+           cy="414.63"
+           cx="1241.44"
+           class="cls-2" />
+        <circle
+           id="circle40"
+           r="4.06"
+           cy="111.31"
+           cx="855.41"
+           class="cls-1" />
+        <circle
+           id="circle42"
+           r="4.06"
+           cy="846.09"
+           cx="64.36"
+           class="cls-1" />
+        <circle
+           id="circle44"
+           r="4.06"
+           cy="1186.11"
+           cx="131.04"
+           class="cls-1" />
+        <circle
+           id="circle46"
+           r="4.06"
+           cy="1023.77"
+           cx="331.67"
+           class="cls-1" />
+        <circle
+           id="circle48"
+           r="3.56"
+           cy="625.84"
+           cx="1179.77"
+           class="cls-2" />
+        <circle
+           id="circle50"
+           r="3.56"
+           cy="701.86"
+           cx="250.33"
+           class="cls-1" />
+        <circle
+           id="circle52"
+           r="3.56"
+           cy="908.56"
+           cx="349.59"
+           class="cls-3" />
+        <circle
+           id="circle54"
+           r="3.56"
+           cy="647.86"
+           cx="639.33"
+           class="cls-1" />
+        <circle
+           id="circle56"
+           r="3.56"
+           cy="752.86"
+           cx="824.33"
+           class="cls-1" />
+      </g>
+    </g>
+  </g>
+</svg>
